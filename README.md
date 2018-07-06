@@ -28,7 +28,7 @@ git push -u origin master
 
 
 
-
+<pre>
 出现问题
 $ git push origin master
 Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
@@ -45,3 +45,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 解决问题两步
 git pull --rebase origin master 
 git push -u origin master
+</pre>
