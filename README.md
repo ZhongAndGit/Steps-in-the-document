@@ -46,3 +46,8 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 git pull --rebase origin master 
 git push -u origin master
 </pre>
+```bash
+克隆项目
+git clone 地址
+
+```
